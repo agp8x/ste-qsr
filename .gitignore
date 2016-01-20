@@ -1,3 +1,5 @@
 _*
 *.pyc
 .idea
+*.png
+data/bench*.qcsp
